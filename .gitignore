@@ -1,0 +1,8 @@
+// ide settings files
+.idea
+
+// node modules (should be installed via npm install)
+node_modules/
+tmp/
+prod/
+npm-debug.log
