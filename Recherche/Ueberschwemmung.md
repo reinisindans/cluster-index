@@ -41,7 +41,7 @@ Rechtliche Grundlage: RICHTLINIE 2007/60/EG DES EUROPÄISCHEN PARLAMENTS UND DES
 	**Anfrage abgeschickt** (https://www.lfu.bayern.de/umweltdaten/datenbezug/index.htm)
 		
 *NUTZUNGSBEDINGUNGEN*
-	k.A.
+	[Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Lizenz ](https://www.lfu.bayern.de/umweltdaten/geodatendienste/index_detail.htm?id=4cab2c12-fa7e-49c3-97ba-f4f33af3a598&profil=WMS)
 
 *UMFANG*
 	Bayern
@@ -95,7 +95,7 @@ Sachsen
 
 Thüringen
 *QUELLEN:*
-	1. [Herunterladen den die .shp kann man nur 'Flussweise', einzeln: hier im WebKartenDienst: ](http://antares.thueringen.de/cadenza/;jsessionid=B06BE0D3DECE6E8D4B1E62B17D83F5E4)
+	1. [Herunterladen die .shp kann man nur 'Flussweise', einzeln: hier im WebKartenDienst: ](http://antares.thueringen.de/cadenza/;jsessionid=B06BE0D3DECE6E8D4B1E62B17D83F5E4)
 	2. [Auswahl zum Herunterladen in Tabellenform:](http://www.tlug-jena.de/hwrm/index.html)
 
  *NUTZUNGSBEDINGUNGEN:*
@@ -173,10 +173,12 @@ Thüringen
 **Saarland**
 *QUELLEN:*
 	[WMS Dienst und Hinweise hier](http://geoportal.saarland.de/portal/de/fachanwendungen/wasser.html)
-	**Habe eine Anfrage  geschickt** (m.gretzschel@umwelt.saarland.de)
+	[Shapefiles als Download: ](http://geoportal.lkvk.saarland.de/abgabe_gdz/WebDokumente/Hochwasser/Download.htm)
 
 *NUTZUNGSBEDINGUNGEN:*
-[ Die Daten unterliegen dem Urheberrecht. Jede Vervielfältigung bedarf einer Genehmigung. Die Nutzung für kommerzielle Zwecke ist nicht gestattet.: aus WMS Metadaten für Überschwemmungsgebiete](http://portalu.saarland.de/trefferanzeige?docuuid=e514b264-4a3d-4415-b19d-78ce629af9c3&plugid=/ingrid-group:iplug-csw-dsc-tc-LKVKSL-admin)
+	[Für Hochwasserdaten: Alle Nutzungsarten sind frei, aber grundsätzlich wird nicht auf das Urheberrecht verzichtet.](http://geoportal.saarland.de/mapbender/php/mod_showMetadata.php?resource=wms&layout=tabs&id=2132&languageCode=de)
+ 	Siehe auch die Nutzungsbedingungen in bei .shp Download .zip.
+
 
 *UMFANG:*
 	Saarland
@@ -201,6 +203,7 @@ Schleswig-Holstein
 	[Hochwassergefahrenkarten als .pdf](http://www.lung.mv-regierung.de/insite/cms/umwelt/wasser/hochwasserrisikomanagementrichtlinie/hwr_hochwassergefahrenkarten.htm)
 	[Als interaktiver Webdienst](https://www.umweltkarten.mv-regierung.de/atlas/script/index.php?nutzer=p3HWRMRL)
 	[WMS Dienst:](http://www.umweltkarten.mv-regierung.de/script/mv_a3_hwrmrl_wms.php)
+	*Es besteht die Möglichkeit die Hochwasserdaten auch über den Kartendienst als .shp herunterzuladen. *
 	**Habe eine Anfrage  geschickt**(Poststelle@lung.mv-regierung.de)
 
 *NUTZUNGSBEDINGUNGEN:*
@@ -259,6 +262,8 @@ Schleswig-Holstein
 **Sachsen-Anhalt**
 *QUELLEN:*
 	[WMS files für einbindung in QGIS: ](https://lhw.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/Landesbetriebe/LHW/neu_PDF/3.0/LHW_HWRK_und_HWGK.zip)
+	[Webdienst , mit Möglichkeit Einzelkarten als .shp herunterzuladen](https://www.geofachdatenserver.de/de/lhw-hochwassergefahrenkarten.html)
+
 	
  *NUTZUNGSBEDINGUNGEN:*
 	[Zugangs  der  Öffentlichkeit  ist  durch  Artikel  10  Absatz  1  HWRM-RL gewährleistet]  (https://lhw.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/Landesbetriebe/LHW/neu_PDF/hwrmrl_stufe2_bericht.pdf)
